@@ -1,0 +1,262 @@
+Cmp-Mod V01 Created by Cvpcb (2014-11-09 BZR 5259)-product   date = Mon 17 Nov 2014 14:49:40 AEDT
+
+BeginCmp
+TimeStamp = /52A09BE3;
+Reference = C9;
+ValeurCmp = 100nF;
+IdModule  = FT:CAP0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A091F0;
+Reference = C10;
+ValeurCmp = 22pF;
+IdModule  = FT:CAP0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A091E1;
+Reference = C11;
+ValeurCmp = 22pF;
+IdModule  = FT:CAP0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5326730A;
+Reference = C12;
+ValeurCmp = 100nF;
+IdModule  = FT:CAP0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5326C02E;
+Reference = C13;
+ValeurCmp = 1uF;
+IdModule  = FT:CAP0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5326C659;
+Reference = C14;
+ValeurCmp = 1uF;
+IdModule  = FT:CAP0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53505597;
+Reference = C16;
+ValeurCmp = 100nF;
+IdModule  = FT:CAP0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A0A781;
+Reference = D1;
+ValeurCmp = D13/RED;
+IdModule  = FT:LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E9D5B7;
+Reference = D2;
+ValeurCmp = TX/YEL;
+IdModule  = FT:LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E9D5DA;
+Reference = D3;
+ValeurCmp = RX/GRN;
+IdModule  = FT:LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E9D5FD;
+Reference = D4;
+ValeurCmp = POW/BLUE;
+IdModule  = FT:LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A06795;
+Reference = IC1;
+ValeurCmp = ATMEGA328P-A;
+IdModule  = FT:TQFP32-08;
+EndCmp
+
+BeginCmp
+TimeStamp = /5462959D;
+Reference = J1;
+ValeurCmp = RASPBERRY_PI_PLUS_CON;
+IdModule  = FT:RASPBERRY_PI_HAT;
+EndCmp
+
+BeginCmp
+TimeStamp = /52D96AA5;
+Reference = JP1;
+ValeurCmp = M06;
+IdModule  = FT:1X06;
+EndCmp
+
+BeginCmp
+TimeStamp = /52D89977;
+Reference = Q1;
+ValeurCmp = RJU003N03;
+IdModule  = FT:SOT323_MOSFET;
+EndCmp
+
+BeginCmp
+TimeStamp = /52D8AB1E;
+Reference = Q2;
+ValeurCmp = RJU003N03;
+IdModule  = FT:SOT323_MOSFET;
+EndCmp
+
+BeginCmp
+TimeStamp = /532672B1;
+Reference = Q6;
+ValeurCmp = RJU003N03;
+IdModule  = FT:SOT323_MOSFET;
+EndCmp
+
+BeginCmp
+TimeStamp = /5326BFF7;
+Reference = Q7;
+ValeurCmp = BSS84;
+IdModule  = FT:SOT23_MOSFET;
+EndCmp
+
+BeginCmp
+TimeStamp = /5326C653;
+Reference = Q8;
+ValeurCmp = BSS84;
+IdModule  = FT:SOT23_MOSFET;
+EndCmp
+
+BeginCmp
+TimeStamp = /53501E4C;
+Reference = Q9;
+ValeurCmp = RJU003N03;
+IdModule  = FT:SOT323_MOSFET;
+EndCmp
+
+BeginCmp
+TimeStamp = /5350052A;
+Reference = Q10;
+ValeurCmp = RJU003N03;
+IdModule  = FT:SOT323_MOSFET;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A0A697;
+Reference = Q11;
+ValeurCmp = RJU003N03;
+IdModule  = FT:SOT323_MOSFET;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DA061C;
+Reference = R4;
+ValeurCmp = 10K;
+IdModule  = FT:RES_CAY16;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DA066E;
+Reference = R7;
+ValeurCmp = 10K;
+IdModule  = FT:RES_CAY16;
+EndCmp
+
+BeginCmp
+TimeStamp = /52D9FDF7;
+Reference = R8;
+ValeurCmp = 470;
+IdModule  = FT:RES_CAY16;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E9D737;
+Reference = R9;
+ValeurCmp = 1K;
+IdModule  = FT:RES_CAY16;
+EndCmp
+
+BeginCmp
+TimeStamp = /53501E52;
+Reference = R15;
+ValeurCmp = 200K;
+IdModule  = FT:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5350056D;
+Reference = R16;
+ValeurCmp = 200K;
+IdModule  = FT:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53915E3C;
+Reference = R17;
+ValeurCmp = 50R;
+IdModule  = FT:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A00849;
+Reference = SHIELD1;
+ValeurCmp = ARDUINO_SHIELD;
+IdModule  = FT:ARDUINO_SHIELD;
+EndCmp
+
+BeginCmp
+TimeStamp = /5326906C;
+Reference = SJ1;
+ValeurCmp = SJ;
+IdModule  = FT:SJ_SHORTED;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A01FB8;
+Reference = SJ2;
+ValeurCmp = SJ;
+IdModule  = FT:SJ_SHORTED;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A01FBE;
+Reference = SJ3;
+ValeurCmp = SJ;
+IdModule  = FT:SJ_SHORTED;
+EndCmp
+
+BeginCmp
+TimeStamp = /53268698;
+Reference = SJ6;
+ValeurCmp = SJ;
+IdModule  = FT:SJ_SHORTED;
+EndCmp
+
+BeginCmp
+TimeStamp = /5326729D;
+Reference = SJ7;
+ValeurCmp = SJ;
+IdModule  = FT:SJ_SHORTED;
+EndCmp
+
+BeginCmp
+TimeStamp = /53212847;
+Reference = SW1;
+ValeurCmp = PUSHBUTTON;
+IdModule  = FT:TACTILE_SWITCH_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A091FF;
+Reference = X1;
+ValeurCmp = 16MHz;
+IdModule  = FT:HC49-US;
+EndCmp
+
+EndListe

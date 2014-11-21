@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-11-09 BZR 5259)-product   date = Mon 17 Nov 2014 14:49:40 AEDT
+Cmp-Mod V01 Created by Cvpcb (2014-11-09 BZR 5259)-product   date = Thu 20 Nov 2014 16:39:20 AEDT
 
 BeginCmp
 TimeStamp = /52A09BE3;
@@ -96,6 +96,34 @@ TimeStamp = /52D96AA5;
 Reference = JP1;
 ValeurCmp = M06;
 IdModule  = FT:1X06;
+EndCmp
+
+BeginCmp
+TimeStamp = /546D9CBD;
+Reference = JP2;
+ValeurCmp = M07;
+IdModule  = FT:1X08;
+EndCmp
+
+BeginCmp
+TimeStamp = /546D9D3F;
+Reference = JP3;
+ValeurCmp = M06;
+IdModule  = FT:1X06;
+EndCmp
+
+BeginCmp
+TimeStamp = /546D9A54;
+Reference = JP4;
+ValeurCmp = M10;
+IdModule  = FT:1X10;
+EndCmp
+
+BeginCmp
+TimeStamp = /546D941D;
+Reference = JP5;
+ValeurCmp = M08;
+IdModule  = FT:1X08;
 EndCmp
 
 BeginCmp

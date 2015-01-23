@@ -37,7 +37,7 @@ LibName12=led
 LibName13=dip_sockets
 LibName14=pga_sockets
 LibName15=valves
-LibName16=library/freetronics_kicad_pcb_lib
+LibName16=library/freetronics_footprints
 LibDir=
 [eeschema]
 version=1
@@ -48,7 +48,7 @@ RptD_Y=100
 RptLab=1
 LabSize=60
 [eeschema/libraries]
-LibName1=library/freetronics_kicad_sch_lib
+LibName1=library/freetronics_schematic
 LibName2=power
 LibName3=device
 LibName4=transistors

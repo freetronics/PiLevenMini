@@ -1,52 +1,52 @@
-Cmp-Mod V01 Created by Cvpcb (2014-11-09 BZR 5259)-product   date = Thu 20 Nov 2014 16:39:20 AEDT
+Cmp-Mod V01 Created by Cvpcb (2014-11-24 BZR 5301)-product   date = Wed 17 Dec 2014 09:24:11 AEDT
 
 BeginCmp
 TimeStamp = /52A09BE3;
 Reference = C9;
 ValeurCmp = 100nF;
-IdModule  = FT:CAP0603;
+IdModule  = FT:0603_CAP;
 EndCmp
 
 BeginCmp
 TimeStamp = /52A091F0;
 Reference = C10;
 ValeurCmp = 22pF;
-IdModule  = FT:CAP0603;
+IdModule  = FT:0603_CAP;
 EndCmp
 
 BeginCmp
 TimeStamp = /52A091E1;
 Reference = C11;
 ValeurCmp = 22pF;
-IdModule  = FT:CAP0603;
+IdModule  = FT:0603_CAP;
 EndCmp
 
 BeginCmp
 TimeStamp = /5326730A;
 Reference = C12;
 ValeurCmp = 100nF;
-IdModule  = FT:CAP0603;
+IdModule  = FT:0603_CAP;
 EndCmp
 
 BeginCmp
 TimeStamp = /5326C02E;
 Reference = C13;
 ValeurCmp = 1uF;
-IdModule  = FT:CAP0603;
+IdModule  = FT:0603_CAP;
 EndCmp
 
 BeginCmp
 TimeStamp = /5326C659;
 Reference = C14;
 ValeurCmp = 1uF;
-IdModule  = FT:CAP0603;
+IdModule  = FT:0603_CAP;
 EndCmp
 
 BeginCmp
 TimeStamp = /53505597;
 Reference = C16;
 ValeurCmp = 100nF;
-IdModule  = FT:CAP0603;
+IdModule  = FT:0603_CAP;
 EndCmp
 
 BeginCmp
@@ -81,7 +81,7 @@ BeginCmp
 TimeStamp = /52A06795;
 Reference = IC1;
 ValeurCmp = ATMEGA328P-A;
-IdModule  = FT:TQFP32-08;
+IdModule  = FT:QFP32_7mm_0.8mm;
 EndCmp
 
 BeginCmp
@@ -99,87 +99,59 @@ IdModule  = FT:1X06;
 EndCmp
 
 BeginCmp
-TimeStamp = /546D9CBD;
-Reference = JP2;
-ValeurCmp = M07;
-IdModule  = FT:1X08;
-EndCmp
-
-BeginCmp
-TimeStamp = /546D9D3F;
-Reference = JP3;
-ValeurCmp = M06;
-IdModule  = FT:1X06;
-EndCmp
-
-BeginCmp
-TimeStamp = /546D9A54;
-Reference = JP4;
-ValeurCmp = M10;
-IdModule  = FT:1X10;
-EndCmp
-
-BeginCmp
-TimeStamp = /546D941D;
-Reference = JP5;
-ValeurCmp = M08;
-IdModule  = FT:1X08;
-EndCmp
-
-BeginCmp
 TimeStamp = /52D89977;
 Reference = Q1;
 ValeurCmp = RJU003N03;
-IdModule  = FT:SOT323_MOSFET;
+IdModule  = FT:SOT323_FET;
 EndCmp
 
 BeginCmp
 TimeStamp = /52D8AB1E;
 Reference = Q2;
 ValeurCmp = RJU003N03;
-IdModule  = FT:SOT323_MOSFET;
+IdModule  = FT:SOT323_FET;
 EndCmp
 
 BeginCmp
 TimeStamp = /532672B1;
 Reference = Q6;
 ValeurCmp = RJU003N03;
-IdModule  = FT:SOT323_MOSFET;
+IdModule  = FT:SOT323_FET;
 EndCmp
 
 BeginCmp
 TimeStamp = /5326BFF7;
 Reference = Q7;
 ValeurCmp = BSS84;
-IdModule  = FT:SOT23_MOSFET;
+IdModule  = FT:SOT23_FET;
 EndCmp
 
 BeginCmp
 TimeStamp = /5326C653;
 Reference = Q8;
 ValeurCmp = BSS84;
-IdModule  = FT:SOT23_MOSFET;
+IdModule  = FT:SOT23_FET;
 EndCmp
 
 BeginCmp
 TimeStamp = /53501E4C;
 Reference = Q9;
 ValeurCmp = RJU003N03;
-IdModule  = FT:SOT323_MOSFET;
+IdModule  = FT:SOT323_FET;
 EndCmp
 
 BeginCmp
 TimeStamp = /5350052A;
 Reference = Q10;
 ValeurCmp = RJU003N03;
-IdModule  = FT:SOT323_MOSFET;
+IdModule  = FT:SOT323_FET;
 EndCmp
 
 BeginCmp
 TimeStamp = /52A0A697;
 Reference = Q11;
 ValeurCmp = RJU003N03;
-IdModule  = FT:SOT323_MOSFET;
+IdModule  = FT:SOT323_FET;
 EndCmp
 
 BeginCmp
@@ -234,7 +206,7 @@ EndCmp
 BeginCmp
 TimeStamp = /52A00849;
 Reference = SHIELD1;
-ValeurCmp = ARDUINO_SHIELD;
+ValeurCmp = ARDUINO_FOOTPRINT;
 IdModule  = FT:ARDUINO_SHIELD;
 EndCmp
 
@@ -274,17 +246,17 @@ IdModule  = FT:SJ_SHORTED;
 EndCmp
 
 BeginCmp
-TimeStamp = /53212847;
+TimeStamp = /54916476;
 Reference = SW1;
-ValeurCmp = PUSHBUTTON;
-IdModule  = FT:TACTILE_SWITCH_SMD;
+ValeurCmp = SW_PUSHBUTTON;
+IdModule  = FT:SW_PUSHBUTTON_SMD;
 EndCmp
 
 BeginCmp
 TimeStamp = /52A091FF;
 Reference = X1;
 ValeurCmp = 16MHz;
-IdModule  = FT:HC49-US;
+IdModule  = FT:CRYSTAL_HC49_PTH;
 EndCmp
 
 EndListe

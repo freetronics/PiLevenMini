@@ -37,12 +37,12 @@ $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
 Title "PiLeven Mini"
-Date "Fri 21 Nov 2014"
+Date "Fri 30 Jan 2015"
 Rev "V1.1"
 Comp "tapr.org/ohl"
 Comment1 "Licensed under TAPR Open Hardware License"
 Comment2 "freetronics.com/pileven"
-Comment3 "(C) 2014 Freetronics Pty Ltd"
+Comment3 "(C) 2015 Freetronics Pty Ltd"
 Comment4 "PiLeven Mini - Arduino Compatible Raspberry Pi board"
 $EndDescr
 Text Label 1700 2450 2    60   ~ 0
